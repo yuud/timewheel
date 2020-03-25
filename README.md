@@ -10,7 +10,7 @@ Golang实现的时间轮
 # 安装
 
 ```shell
-go get -u github.com/nosixtools/timewheel
+go get -u github.com/yuud/timewheel.git
 ```
 
 # 使用
@@ -20,7 +20,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/nosixtools/timewheel"
+	"github.com/yuud/timewheel"
 	"time"
 )
 
